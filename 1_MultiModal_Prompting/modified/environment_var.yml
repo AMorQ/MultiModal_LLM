@@ -20,7 +20,7 @@ GIT_PAGER: cat
 #HOME: /home/jovyan home directory typically found in JupyterNotebook environments, specifically in cloud-based or containerized setups. It's a non-root user
 #HOSTNAME:
 JPY_PARENT_PID: '7'
-JUPYTER_TOKEN: I2RwD0TNUc7H_4Y0qaQeMZuC-m7R1CcErfSGopiyX17rVVQZ7A1Arwz2UTygMVnq
+JUPYTER_TOKEN:
 LANG: C.UTF-8
 #LESSON_ID:
 MPLBACKEND: module://matplotlib_inline.backend_inline
