@@ -7,4 +7,4 @@ Higlights! and WIP:
 - FINE TUNE A MODEL FOR THE SPECIFIC BALLET SCHOOL AND LITERATURE I WANT THE MODEL TO USE
 
 
-The provider for the LLama Model used in this repo is together API endpoints.
+The provider for the LLama Model used in this repo is together.ai endpoints.
