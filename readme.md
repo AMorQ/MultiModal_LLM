@@ -1,4 +1,6 @@
-Playing around with Multimodal prompting strategies with LLama 3.1/3.2 models, introducing its new capabilities (tokenizer, API stack, tool calling...)
+#MultiModal Prompting
+
+Playing around with multimodal prompting strategies with LLama 3.1/3.2 models, introducing its new capabilities (tokenizer, API stack, tool calling...)
 Finally, used for building a ballet assistant
 
 **Higlights! and WIP:**
